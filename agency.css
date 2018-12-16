@@ -339,11 +339,42 @@ section h3.section-subheading {
   float: right;
   width: 40%;
 }
-
+.male-age {
+  margin-left: 19%;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 30px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.para-male-age {
+  font-family: 'FC Lamoon';
+  font-size: 25px;
+  float: left;
+}
+.female-age {
+  margin-left: 44%;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 30px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.para-female-age {
+  font-family: 'FC Lamoon';
+  font-size: 25px;
+  float: right;
+}
 /* end Sex Grapg */
 
 /* habit Grapg */
-.chart-pic-habit {
+.graphpy-habit1 {
+  width: 40%;
+}
+.graphpy-habit2 {
+  float: left;
+  width: 30%;
+}
+.graphpy-habit3 {
+  float: right;
   width: 30%;
 }
 .chart-pic-habit-ever {
@@ -354,6 +385,30 @@ section h3.section-subheading {
 }
 .chart-pic-habit-neverever {
   width: 30%;
+}
+.male-habit {
+  margin-left: 19%;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 30px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.para-male-habit {
+  font-family: 'FC Lamoon';
+  font-size: 25px;
+  float: left;
+}
+.female-habit {
+  margin-left: 44%;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 30px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.para-female-habit {
+  font-family: 'FC Lamoon';
+  font-size: 25px;
+  float: right;
 }
 /* end habit Grapg */
 
