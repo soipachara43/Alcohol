@@ -1,23 +1,18 @@
 # My Project - Alcohol
 
-[Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
+ชื่อกลุ่มของพวกเราคือ Triple Spirit ชื่อหัวข้อโปรเจคคือ Alcohol วันนี้พวกเรากลุ่มที่ 37 จะมานำเสนอเนื้อหาเกี่ยวกับสถิติอายุเฉลี่ย เพศ และวัยของผู้ที่เริ่มดื่มสุรา และเหตุผลที่เริ่มดื่ม รวมไปถึงพฤติกรรมในการดื่มสุราแต่ละช่วงอายุ และโรคที่เกิดขึ้นจากการดื่มสุรา ในปีพ.ศ.2550 นะคะ
 
-## Getting Started
 
-Several options are available to get started quickly:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/agency/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-agency.git`
-* Fork the repo
+## จุดประสงค์ของการทำโปรเจคนี้
 
-## Developing Using Source Files
+* ต้องการให้ทราบว่าคนไทยเรามีการดื่มสุราครั้งแรกตั้งแต่อายุเท่าไหร่ และอายุช่วงไหนที่มีการดื่มสุรามากที่สุด
+* สาเหตุสำคัญในการเริ่มดื่มคืออะไร มีพฤติกรรมการดื่มเป็นอย่างรในแต่ละช่วงอายุ
+* จากการดื่มสุรามีการทำให้เกิดโรคใดบ้าง
 
-To use the source files, you will need to have npm installed globally along with Gulp.js. To start:
-* Run `npm install` in the root directory
-* Run `gulp dev` and edit the files as needed
+## เครื่องมือที่ใช้ในการประมวลผลข้อมูลและที่ใช้ในการสร้างกราฟ
 
-If you need to update the plugins included with this template, simply run the following tasks:
-* First run `npm update` to update the dependencies
-* Then run `gulp copy` to copy the new versions to their proper destinations
+* Pandas Library
+* Pygal Library
 
 ## Bugs and Issues
 
