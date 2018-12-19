@@ -1,32 +1,31 @@
 # My Project - Alcohol
 
-ชื่อกลุ่มของพวกเราคือ Triple Spirit ชื่อหัวข้อโปรเจคคือ Alcohol วันนี้พวกเรากลุ่มที่ 37 จะมานำเสนอเนื้อหาเกี่ยวกับสถิติอายุเฉลี่ย เพศ และวัยของผู้ที่เริ่มดื่มสุรา และเหตุผลที่เริ่มดื่ม รวมไปถึงพฤติกรรมในการดื่มสุราแต่ละช่วงอายุ และโรคที่เกิดขึ้นจากการดื่มสุรา ในปีพ.ศ.2550 นะคะ
+ชื่อกลุ่มของพวกเราคือ Triple Spirit ชื่อหัวข้อโปรเจคคือ Alcohol วันนี้พวกเรากลุ่มที่ 37 จะมานำเสนอเนื้อหาเกี่ยวกับสถิติอายุเฉลี่ย เพศ และวัยของผู้ที่เริ่มดื่มสุรา และเหตุผลที่เริ่มดื่ม รวมไปถึงพฤติกรรมในการดื่มสุราแต่ละช่วงอายุ และโรคที่เกิดขึ้นจากการดื่มสุรา ในปีพ.ศ.2550
 
 
 ## จุดประสงค์ของการทำโปรเจคนี้
 
 * ต้องการให้ทราบว่าคนไทยเรามีการดื่มสุราครั้งแรกตั้งแต่อายุเท่าไหร่ และอายุช่วงไหนที่มีการดื่มสุรามากที่สุด
-* สาเหตุสำคัญในการเริ่มดื่มคืออะไร มีพฤติกรรมการดื่มเป็นอย่างรในแต่ละช่วงอายุ
+* สาเหตุสำคัญในการเริ่มดื่มคืออะไร มีพฤติกรรมการดื่มเป็นอย่างไรในแต่ละช่วงอายุ
 * จากการดื่มสุรามีการทำให้เกิดโรคใดบ้าง
 
 ## เครื่องมือที่ใช้ในการประมวลผลข้อมูลและที่ใช้ในการสร้างกราฟ
 
+ในที่นี้เราจะใช้ภาษา Python มาเพื่อประมวลผล และจะใช้ Library ที่มีอยู่ใน Python มาช่วยสร้างด้วยดังนี้
 * Pandas Library
 * Pygal Library
 
-## Bugs and Issues
+## ข้อมูลที่จะแสดงในโปรเจค
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-agency/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
+ข้อมูลที่เราจะใช้นำเสนอ เราจะแสดงผลโดยใช้กราฟเป็นตัวเปรียบเทียบข้อมูลช่วงอายุในการเริ่มดื่มสุรา ช่วงอายุที่มีการดื่มสุรามากที่สุด เหตุผลที่ประกอบการเริ่มดื่มครั้งแรกและพฤติกรรมในการดื่ม รวมไปถึงแสดงผลการเปรียบเทียบการเกิดโรคจากการดื่มสุราอีกด้วย
 
-## Creator
+## ผลการดำเนินการของโปรเจค
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+ใส่ลิ้งค์เว็บ
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+## สมาชิกในกลุ่ม
 
-## Copyright and License
-
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license.
+* 61070235 นางสาวสร้อยพชร เมฆาลัย
+* 61070090 นายธีระพงษ์ นันทะพันธ์
+* 61070163 นางสาวภาวินี ทองบ่อ
